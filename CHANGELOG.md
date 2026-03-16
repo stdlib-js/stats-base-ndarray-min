@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-16)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`7a996eb`](https://github.com/stdlib-js/stdlib/commit/7a996eb7a7b20c5419b6871ae3150f7a495cdb70) - **bench:** refactor to use string interpolation in `stats/base/ndarray/min` [(#10995)](https://github.com/stdlib-js/stdlib/pull/10995) _(by Partha Das)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Partha Das
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
